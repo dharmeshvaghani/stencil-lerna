@@ -1,7 +1,7 @@
 {
   "name": "app",
   "private": true,
-  "version": "0.0.1",
+  "version": "3.0.3",
   "description": "Stencil App Starter",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
@@ -17,8 +17,8 @@
     "test.watch": "stencil test --spec --e2e --watchAll"
   },
   "dependencies": {
-    "@bitflower/design-system": "0.0.1",
-    "@ryancavanaugh/pkg2": "^3.0.2",
+    "@bitflower/design-system": "^3.0.3",
+    "@ryancavanaugh/pkg2": "^3.0.3",
     "@stencil/router": "^1.0.1"
   },
   "license": "MIT",
