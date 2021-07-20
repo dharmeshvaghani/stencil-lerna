@@ -1,6 +1,6 @@
 {
   "name": "@ryancavanaugh/pkg3",
-  "version": "3.0.10",
+  "version": "3.0.11",
   "description": "",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -15,8 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "@feathersjs/feathers": "^3.3.1",
-    "@ryancavanaugh/pkg1": "^3.0.9",
-    "@ryancavanaugh/pkg2": "^3.0.9",
+    "@ryancavanaugh/pkg1": "^3.0.10",
+    "@ryancavanaugh/pkg2": "^3.0.10",
     "cross-env": "^5.2.0"
   },
   "devDependencies": {
