@@ -8,7 +8,7 @@ app.use('todos', {
     // Return an object in the form of { name, text }
     return {
       name,
-      text: `You have to do ${name}`
+      text: `You havee to do ${name}`
     };
   }
 });
