@@ -1,6 +1,6 @@
 {
   "name": "@ryancavanaugh/pkg2",
-  "version": "3.0.5",
+  "version": "3.0.6",
   "description": "",
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -18,7 +18,7 @@
   "dependencies": {
     "@feathersjs/authentication-client": "^1.0.11",
     "@feathersjs/feathers": "^3.3.1",
-    "@ryancavanaugh/pkg1": "file:../pkg1",
+    "@ryancavanaugh/pkg1": "^3.0.6",
     "debug": "^4.1.1",
     "socket.io-client": "^2.3.0"
   },
@@ -28,5 +28,5 @@
     "@types/socket.io-client": "^1.4.33",
     "typescript": "^4.0.2"
   },
-  "gitHead": "54724b02e762945b4621d7d194ab2abfb733c0a8"
+  "gitHead": "2d443d1dbf5bff516b107aeef914ff65a9441ba9"
 }
