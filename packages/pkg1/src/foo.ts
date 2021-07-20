@@ -1,3 +1,3 @@
 export function fn(): string {
-  return 'Hello..hi from PKG1';
+  return 'Hello..hey from PKG1';
 }
