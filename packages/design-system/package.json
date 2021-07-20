@@ -1,6 +1,6 @@
 {
   "name": "@bitflower/design-system",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "Stencil Component Starter",
   "main": "dist/index.cjs.js",
   "module": "dist/index.js",
@@ -24,8 +24,8 @@
     "test.watch": "stencil test --spec --e2e --watchAll"
   },
   "dependencies": {
-    "@ryancavanaugh/pkg1": "^3.0.6",
-    "@ryancavanaugh/pkg2": "^3.0.6"
+    "@ryancavanaugh/pkg1": "^3.0.7",
+    "@ryancavanaugh/pkg2": "^3.0.7"
   },
   "devDependencies": {
     "@stencil/core": "^2.0.3",
@@ -34,5 +34,5 @@
     "typescript": "^4.0.2"
   },
   "license": "MIT",
-  "gitHead": "2d443d1dbf5bff516b107aeef914ff65a9441ba9"
+  "gitHead": "41869adfb4f990cece1625ac80ad51ed5d33356c"
 }

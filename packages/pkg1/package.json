@@ -1,6 +1,6 @@
 {
   "name": "@ryancavanaugh/pkg1",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "",
   "module": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -18,5 +18,5 @@
   "devDependencies": {
     "typescript": "^4.0.2"
   },
-  "gitHead": "2d443d1dbf5bff516b107aeef914ff65a9441ba9"
+  "gitHead": "41869adfb4f990cece1625ac80ad51ed5d33356c"
 }
